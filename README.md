@@ -3,7 +3,7 @@
 ## I'm a Pre-final Year Student pursuing CS from KIIT University.
 
 
-- ✍🏼 I am a Techincal Writer.
+- ✍🏼 I am a UI Designer and Techincal Writer.
 - 👨🏽‍💻 Currently learning Web Development and Graphic Designing!
 - 🥅 2021 Goals: Learn MERN Stack.
 - 🙌 Fun fact: I am carcaine addicted!
