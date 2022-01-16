@@ -5,7 +5,7 @@
 
 - ✍🏼 I am a UI Designer and Techincal Writer.
 - 👨🏽‍💻 Currently learning Web Development and Graphic Designing!
-- 🥅 2021 Goals: Learn MERN Stack.
+- 🥅 2022 Goals: Learn MERN Stack.
 - 🙌 Fun fact: I am carcaine addicted!
 - 📧 Contact me at <doomsmirtz@yahoo.com>
 - 💻 Connect with me at [LinkedIN](https://www.linkedin.com/in/suryavardhan-thangirala-9800a81a5/)
