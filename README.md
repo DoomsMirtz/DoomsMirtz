@@ -3,9 +3,9 @@
 ## I'm a Pre-final Year Student pursuing CS from KIIT University.
 
 
-- ✍🏼 I am a UI Designer and Techincal Writer.
-- 👨🏽‍💻 Currently learning Web Development and Graphic Designing!
-- 🥅 2022 Goals: Learn MERN Stack.
+- ✍🏼 I am a Web Developer, UI Designer and Techincal Writer.
+- 👨🏽‍💻 Currently working on MERN Stack.
+- 🥅 2023 Goals: Get a job.
 - 🙌 Fun fact: I am carcaine addicted!
 - 📧 Contact me at <doomsmirtz@yahoo.com>
 - 💻 Connect with me at [LinkedIN](https://www.linkedin.com/in/suryavardhan-thangirala-9800a81a5/)
